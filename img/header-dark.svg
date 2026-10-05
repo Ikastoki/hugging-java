@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="600" height="150" role="img" aria-label="Java - Hugging Java">
+  <defs>
+    <!-- Cielo nocturno -->
+    <linearGradient id="cielo-hopper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#1a1210"/>
+      <stop offset="1"   stop-color="#2a1a14"/>
+    </linearGradient>
+    <!-- Luz interior de la cafetería (amarillo verdoso característico de Hopper) -->
+    <linearGradient id="luz-interior" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#e8c878"/>
+      <stop offset="0.5" stop-color="#d4b060"/>
+      <stop offset="1"   stop-color="#b8944a"/>
+    </linearGradient>
+    <!-- Resplandor que sale del ventanal hacia la calle -->
+    <radialGradient id="resplandor-calle" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8c878" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#e8c878" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Reflejo en el cristal -->
+    <linearGradient id="reflejo-cristal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <clipPath id="marco-hopper">
+      <rect width="600" height="150" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#marco-hopper)">
+    <!-- Cielo nocturno -->
+    <rect width="600" height="150" fill="url(#cielo-hopper)"/>
+
+    <!-- Acera (suelo de la calle) -->
+    <rect y="120" width="600" height="30" fill="#1a1210"/>
+    <line x1="0" y1="120" x2="600" y2="120" stroke="#3d2817" stroke-width="0.5" opacity="0.6"/>
+
+    <!-- Edificio de la izquierda (marrón rojizo, como en Hopper) -->
+    <rect x="0" y="0" width="110" height="150" fill="#3d2218"/>
+    <!-- Ventana oscura del edificio izquierdo -->
+    <rect x="20" y="55" width="30" height="40" fill="#1a0f0a" opacity="0.8"/>
+    <rect x="65" y="55" width="30" height="40" fill="#1a0f0a" opacity="0.8"/>
+    <!-- Detalle: línea de cornisa -->
+    <line x1="0" y1="45" x2="110" y2="45" stroke="#2a1510" stroke-width="1"/>
+
+    <!-- Edificio de la derecha (tono similar) -->
+    <rect x="490" y="0" width="110" height="150" fill="#3d2218"/>
+    <!-- Ventana oscura del edificio derecho -->
+    <rect x="505" y="55" width="30" height="40" fill="#1a0f0a" opacity="0.8"/>
+    <rect x="550" y="55" width="30" height="40" fill="#1a0f0a" opacity="0.8"/>
+    <line x1="490" y1="45" x2="600" y2="45" stroke="#2a1510" stroke-width="1"/>
+
+    <!-- Resplandor de la cafetería sobre la acera -->
+    <ellipse cx="300" cy="130" rx="200" ry="25" fill="url(#resplandor-calle)"/>
+
+    <!-- VENTANAL DE LA CAFETERÍA (forma característica de Nighthawks, con ángulo) -->
+    <!-- Marco exterior del ventanal -->
+    <path d="M110,40 L490,40 L490,130 L110,130 Z" fill="#2a1a10"/>
+
+    <!-- Cristal con luz interior (el ventanal principal) -->
+    <path d="M118,48 L482,48 L482,125 L118,125 Z" fill="url(#luz-interior)"/>
+
+    <!-- Pared trasera interior (más oscura, profundidad) -->
+    <rect x="118" y="48" width="364" height="25" fill="#a8844a" opacity="0.7"/>
+
+    <!-- Mostrador/barra dentro de la cafetería -->
+    <path d="M118,95 L482,95 L482,125 L118,125 Z" fill="#8b6f3a" opacity="0.85"/>
+    <!-- Borde superior del mostrador (más claro) -->
+    <line x1="118" y1="95" x2="482" y2="95" stroke="#c9a860" stroke-width="1.2"/>
+
+    <!-- SILUETAS DE PERSONAS (estilo Hopper, minimalistas) -->
+    <!-- Camarero al fondo (de pie, detrás del mostrador) -->
+    <g fill="#3d2817" opacity="0.85">
+      <!-- Cabeza -->
+      <circle cx="220" cy="68" r="5"/>
+      <!-- Gorro blanco característico -->
+      <path d="M214,64 Q220,58 226,64 L226,66 L214,66 Z" fill="#e8d8b8"/>
+      <!-- Cuerpo (uniforme blanco) -->
+      <path d="M213,73 L227,73 L229,95 L211,95 Z" fill="#e8d8b8"/>
+    </g>
+
+    <!-- Cliente 1: hombre de espaldas con sombrero -->
+    <g fill="#2a1a10" opacity="0.9">
+      <circle cx="300" cy="78" r="5.5"/>
+      <!-- Sombrero -->
+      <path d="M292,75 L308,75 L306,72 L294,72 Z" fill="#1a0f0a"/>
+      <!-- Espalda/abrigo -->
+      <path d="M291,83 L309,83 L312,125 L288,125 Z"/>
+    </g>
+
+    <!-- Cliente 2: pareja (dos siluetas juntas) -->
+    <g fill="#2a1a10" opacity="0.9">
+      <!-- Persona izquierda -->
+      <circle cx="370" cy="80" r="5"/>
+      <path d="M362,85 L378,85 L380,125 L360,125 Z"/>
+      <!-- Persona derecha (ligeramente más baja, como conversando) -->
+      <circle cx="395" cy="82" r="4.5"/>
+      <path d="M388,87 L402,87 L404,125 L386,125 Z"/>
+    </g>
+
+    <!-- Tazas de café sobre el mostrador (detalles sutiles) -->
+    <g fill="#5a4020" opacity="0.8">
+      <ellipse cx="260" cy="93" rx="3" ry="1"/>
+      <rect x="258" y="89" width="4" height="4" rx="0.5"/>
+      <ellipse cx="340" cy="93" rx="3" ry="1"/>
+      <rect x="338" y="89" width="4" height="4" rx="0.5"/>
+    </g>
+
+    <!-- Reflejo sutil en el cristal -->
+    <path d="M118,48 L482,48 L482,125 L118,125 Z" fill="url(#reflejo-cristal)"/>
+
+    <!-- Marco del ventanal (líneas estructurales) -->
+    <path d="M118,48 L482,48 L482,125 L118,125 Z" fill="none" stroke="#1a0f0a" stroke-width="2"/>
+    <!-- Divisiones verticales del ventanal -->
+    <line x1="235" y1="48" x2="235" y2="125" stroke="#1a0f0a" stroke-width="1.5" opacity="0.7"/>
+    <line x1="365" y1="48" x2="365" y2="125" stroke="#1a0f0a" stroke-width="1.5" opacity="0.7"/>
+
+    <!-- CARTEL "JAVA" sobre el ventanal (estilo vintage de cafetería) -->
+    <!-- Fondo del cartel -->
+    <rect x="240" y="10" width="120" height="28" rx="2" fill="#8b2a1a" opacity="0.95"/>
+    <rect x="240" y="10" width="120" height="28" rx="2" fill="none" stroke="#c9a860" stroke-width="1" opacity="0.8"/>
+    <!-- Texto JAVA -->
+    <text x="300" y="30" text-anchor="middle"
+          font-family="'Georgia', 'Times New Roman', serif"
+          font-size="18" font-weight="700" letter-spacing="4" fill="#f5e6c8">JAVA</text>
+
+    <!-- SUBTÍTULO "Hugging Java" (como si fuera el eslogan bajo el cartel) -->
+    <text x="300" y="145" text-anchor="middle"
+          font-family="'Georgia', 'Times New Roman', serif"
+          font-size="10" font-style="italic" letter-spacing="2" fill="#c9a860" opacity="0.9">Hugging Java</text>
+
+    <!-- Farola en la acera (detalle urbano) -->
+    <g opacity="0.85">
+      <line x1="75" y1="120" x2="75" y2="60" stroke="#1a0f0a" stroke-width="1.5"/>
+      <circle cx="75" cy="58" r="3" fill="#e8c878" opacity="0.7"/>
+      <circle cx="75" cy="58" r="6" fill="#e8c878" opacity="0.15"/>
+    </g>
+
+    <!-- Pequeña estrella en el cielo (noche) -->
+    <circle cx="540" cy="20" r="0.6" fill="#e8d8b8" opacity="0.5"/>
+    <circle cx="50" cy="15" r="0.5" fill="#e8d8b8" opacity="0.4"/>
+  </g>
+
+  <!-- Borde del banner -->
+  <rect x="0.5" y="0.5" width="599" height="149" rx="12" fill="none" stroke="#3d2817"/>
+</svg>
