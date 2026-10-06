@@ -18,16 +18,16 @@ Este proyecto reúne apuntes, ejercicios y recursos para repasar Java y aprender
 
 ## Programación
 
-[![java](https://img.shields.io/badge/java_core-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
-[![java](https://img.shields.io/badge/paradigmas-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
-[![java](https://img.shields.io/badge/clases_integradas-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
+[![java](https://img.shields.io/badge/java_core-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)](./path/programacion/core/README.md)
 [![java](https://img.shields.io/badge/estructuras_de_datos-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
+[![java](https://img.shields.io/badge/clases_integradas-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
 [![java](https://img.shields.io/badge/programacion_funcional-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
 [![java](https://img.shields.io/badge/hilos_y_concurrencia-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
 
 [![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)]()
 [![gradle](https://img.shields.io/badge/gradle-1D4533?style=for-the-badge&logo=gradle&logoColor=white)]()
 
+[![java](https://img.shields.io/badge/paradigmas-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
 [![java](https://img.shields.io/badge/patrones_de_diseño-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
 [![java](https://img.shields.io/badge/arquitectura_de_aplicaciones-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
 [![java](https://img.shields.io/badge/metodologias-F5F5F7?style=for-the-badge&logo=OpenJDK&logoColor=black)]()
