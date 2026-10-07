@@ -21,15 +21,13 @@
 
 ### Variables
 
-- [ ] [Variables]()
-- [ ] [Declaración e inicialización]()
-- [ ] [Ámbito de las variables]()
-- [ ] [Tipos primitivos]()
-- [ ] [Tipos de referencia]()
-- [ ] [Literales]()
-- [ ] [Constantes]()
-- [ ] [Inferencia de tipos con var]()
-- [ ] [Final]()
+- [x] [Variables](./src/main/java/com/unai/core/sintaxis/variables/Variables.java)
+- [x] [Ámbito de las variables](./src/main/java/com/unai/core/sintaxis/variables/Ambito.java)
+- [x] [Tipos primitivos](./src/main/java/com/unai/core/sintaxis/variables/Primitivos.java)
+- [x] [Tipos de referencia](./src/main/java/com/unai/core/sintaxis/variables/Referencia.java)
+- [x] [Literales](./src/main/java/com/unai/core/sintaxis/variables/Literales.java)
+- [x] [Constantes](./src/main/java/com/unai/core/sintaxis/variables/Constantes.java)
+- [x] [Inferencia de tipos con var](./src/main/java/com/unai/core/sintaxis/variables/Inferencia.java)
 
 ### Tipos de datos
 
