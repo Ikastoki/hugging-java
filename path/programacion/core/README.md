@@ -52,22 +52,22 @@
 
 ### Operadores
 
-- [ ] [Operadores aritméticos]()
-- [ ] [Operadores de asignación]()
-- [ ] [Operadores relacionales]()
-- [ ] [Operadores lógicos]()
-- [ ] [Operadores unarios]()
-- [ ] [Operador ternario]()
-- [ ] [Operadores bit a bit]()
-- [ ] [Operadores de desplazamiento]()
-- [ ] [Operador instanceof]()
-- [ ] [Precedencia de operadores]()
+- [x] [Operadores aritméticos](./src/main/java/com/unai/core/sintaxis/operadores/Aritmeticos.java)
+- [x] [Operadores de asignación](./src/main/java/com/unai/core/sintaxis/operadores/Asignacion.java)
+- [x] [Operadores relacionales](./src/main/java/com/unai/core/sintaxis/operadores/Relacionales.java)
+- [x] [Operadores lógicos](./src/main/java/com/unai/core/sintaxis/operadores/Logicos.java)
+- [x] [Operadores unarios](./src/main/java/com/unai/core/sintaxis/operadores/Unarios.java)
+- [x] [Operador ternario](./src/main/java/com/unai/core/sintaxis/operadores/Ternario.java)
+- [x] [Operadores bit a bit](./src/main/java/com/unai/core/sintaxis/operadores/BitABit.java)
+- [x] [Operadores de desplazamiento](./src/main/java/com/unai/core/sintaxis/operadores/Desplazamiento.java)
+- [x] [Operador instanceof](./src/main/java/com/unai/core/sintaxis/operadores/OperadorInstanceOf.java)
+- [x] [Precedencia de operadores](./src/main/java/com/unai/core/sintaxis/operadores/Precedencia.java)
 
 ### Comentarios
 
-- [ ] [Comentarios de una línea]()
-- [ ] [Comentarios multilínea]()
-- [ ] [Javadoc]()
+- [x] [Comentarios de una línea](./src/main/java/com/unai/core/sintaxis/comentarios/Linea.java)
+- [x] [Comentarios multilínea](./src/main/java/com/unai/core/sintaxis/comentarios/Multilinea.java)
+- [x] [Javadoc](./src/main/java/com/unai/core/sintaxis/comentarios/JavaDoc.java)
 
 ## Entrada y salida
 
