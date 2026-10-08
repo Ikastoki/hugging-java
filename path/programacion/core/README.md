@@ -31,17 +31,17 @@
 
 ### Tipos de datos
 
-- [ ] [Boolean]()
-- [ ] [Byte]()
-- [ ] [Short]()
-- [ ] [Int]()
-- [ ] [Long]()
-- [ ] [Float]()
-- [ ] [Double]()
-- [ ] [Char]()
-- [ ] [String]()
-- [ ] [Null]()
-- [ ] [Tipos envoltorio]()
+- [x] [Boolean](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoBoolean.java)
+- [x] [Byte](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoByte.java)
+- [x] [Short](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoShort.java)
+- [x] [Int](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoInt.java)
+- [x] [Long](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoLong.java)
+- [x] [Float](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoFloat.java)
+- [x] [Double](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoDouble.java)
+- [x] [Char](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoChar.java)
+- [x] [String](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoString.java)
+- [x] [Null](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoNull.java)
+- [x] [Tipos envoltorio(Wrapper)](./src/main/java/com/unai/core/sintaxis/tiposdedatos/TipoWrapper.java)
 
 ### Conversión de tipos
 
