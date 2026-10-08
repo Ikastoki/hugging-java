@@ -71,13 +71,14 @@
 
 ## Entrada y salida
 
-- [ ] [Salida estándar]()
-- [ ] [System.out]()
-- [ ] [System.err]()
-- [ ] [Formateo de salida]()
-- [ ] [Entrada estándar]()
-- [ ] [Scanner]()
-- [ ] [Java I/O básico]()
+- [x] [Salida estándar](./src/main/java/com/unai/core/entradasalida/SalidaEstandar.java)
+- [x] [System.out](./src/main/java/com/unai/core/entradasalida/SystemOut.java)
+- [x] [System.err](./src/main/java/com/unai/core/entradasalida/SystemErr.java)
+- [x] [Formateo de salida](./src/main/java/com/unai/core/entradasalida/FormateoSalida.java)
+- [x] [Entrada estándar](./src/main/java/com/unai/core/entradasalida/EntradaEstandar.java)
+- [x] [Scanner](./src/main/java/com/unai/core/entradasalida/ClaseScanner.java)
+- [x] [System.console](./src/main/java/com/unai/core/entradasalida/SystemConsole.java)
+- [x] [Java I/O básico](./src/main/java/com/unai/core/entradasalida/IOIntroduccion.java)
 
 ## Control de flujo
 
