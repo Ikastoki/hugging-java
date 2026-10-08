@@ -131,17 +131,17 @@
 
 ## Arrays
 
-- [ ] [Arrays]()
-- [ ] [Declaración de arrays]()
-- [ ] [Inicialización de arrays]()
-- [ ] [Acceso a elementos]()
-- [ ] [Recorrido de arrays]()
-- [ ] [Arrays multidimensionales]()
-- [ ] [Arrays irregulares]()
-- [ ] [Longitud de un array]()
-- [ ] [Arrays de tipos primitivos]()
-- [ ] [Arrays de tipos de referencia]()
-- [ ] [Clase Arrays]()
+- [x] [Arrays](./src/main/java/com/unai/core/arrays/Arrays.java)
+- [x] [Declaración de arrays](./src/main/java/com/unai/core/arrays/DeclaracionArray.java)
+- [x] [Inicialización de arrays](./src/main/java/com/unai/core/arrays/InicializacionArray.java)
+- [x] [Acceso a elementos](./src/main/java/com/unai/core/arrays/AccesoAElementos.java)
+- [x] [Recorrido de arrays](./src/main/java/com/unai/core/arrays/RecorrerArray.java)
+- [x] [Arrays multidimensionales](./src/main/java/com/unai/core/arrays/Multidimensionales.java)
+- [x] [Arrays irregulares](./src/main/java/com/unai/core/arrays/ArraysIrregulares.java)
+- [x] [Longitud de un array](./src/main/java/com/unai/core/arrays/LongitudArray.java)
+- [x] [Arrays de tipos primitivos](./src/main/java/com/unai/core/arrays/ArrayPrimitivos.java)
+- [x] [Arrays de tipos de referencia](./src/main/java/com/unai/core/arrays/ArraysReferencia.java)
+- [x] [Clase Arrays](./src/main/java/com/unai/core/arrays/ClaseArray.java)
 
 ## Programación orientada a objetos
 
