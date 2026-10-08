@@ -45,12 +45,10 @@
 
 ### Conversión de tipos
 
-- [ ] [Conversión implícita]()
-- [ ] [Conversión explícita]()
-- [ ] [Casting]()
-- [ ] [Conversión entre tipos primitivos]()
-- [ ] [Conversión entre tipos primitivos y envoltorio]()
-- [ ] [Autoboxing y unboxing]()
+- [x] [Conversión implícita](./src/main/java/com/unai/core/sintaxis/conversion/Implicita.java)
+- [x] [Conversión explícita](./src/main/java/com/unai/core/sintaxis/conversion/Explicita.java)
+- [x] [Casting](./src/main/java/com/unai/core/sintaxis/conversion/Casting.java)
+- [x] [Autoboxing y unboxing](./src/main/java/com/unai/core/sintaxis/conversion/AutoboxingYUnboxing.java)
 
 ### Operadores
 
