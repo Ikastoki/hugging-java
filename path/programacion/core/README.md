@@ -111,24 +111,23 @@
 
 ### Fundamentos
 
-- [ ] [Qué es un método]()
-- [ ] [Declaración de métodos]()
-- [ ] [Invocación de métodos]()
-- [ ] [Parámetros]()
-- [ ] [Argumentos]()
-- [ ] [Valores de retorno]()
-- [ ] [Métodos void]()
-- [ ] [Métodos estáticos]()
-- [ ] [Métodos de instancia]()
+- [x] [Qué es un método](./src/main/java/com/unai/core/metodos/fundamentos/Metodos.java)
+- [x] [Declaración de métodos](./src/main/java/com/unai/core/metodos/fundamentos/DeclaracionMetodos.java)
+- [x] [Invocación de métodos](./src/main/java/com/unai/core/metodos/fundamentos/InvocacionMetodos.java)
+- [x] [Parámetros](./src/main/java/com/unai/core/metodos/fundamentos/Parametros.java)
+- [x] [Argumentos](./src/main/java/com/unai/core/metodos/fundamentos/Argumentos.java)
+- [x] [Valores de retorno](./src/main/java/com/unai/core/metodos/fundamentos/Retorno.java)
+- [x] [Métodos estáticos](./src/main/java/com/unai/core/metodos/fundamentos/Estaticos.java)
+- [x] [Métodos de instancia](./src/main/java/com/unai/core/metodos/fundamentos/Instancia.java)
 
 ### Sobrecarga y llamadas
 
-- [ ] [Sobrecarga de métodos]()
-- [ ] [Resolución de métodos]()
-- [ ] [Paso de argumentos]()
-- [ ] [Paso por valor]()
-- [ ] [Pila de llamadas]()
-- [ ] [Recursión]()
+- [x] [Sobrecarga de métodos](./src/main/java/com/unai/core/metodos/sobrecarga/Sobrecarga.java)
+- [x] [Resolución de métodos](./src/main/java/com/unai/core/metodos/sobrecarga/Resolucion.java)
+- [x] [Paso de argumentos](./src/main/java/com/unai/core/metodos/sobrecarga/PasoArgumentos.java)
+- [x] [Paso por valor](./src/main/java/com/unai/core/metodos/sobrecarga/PasoValor.java)
+- [x] [Pila de llamadas](./src/main/java/com/unai/core/metodos/sobrecarga/PilaDeLlamada.java)
+- [x] [Recursión](./src/main/java/com/unai/core/metodos/sobrecarga/Recursion.java)
 
 ## Arrays
 
