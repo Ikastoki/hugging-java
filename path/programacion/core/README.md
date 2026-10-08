@@ -84,28 +84,28 @@
 
 ### Condicionales
 
-- [ ] [if]()
-- [ ] [if-else]()
-- [ ] [else-if]()
-- [ ] [Condiciones anidadas]()
-- [ ] [Operador ternario]()
-- [ ] [switch]()
-- [ ] [Switch expressions]()
+- [x] [If](./src/main/java/com/unai/core/controldeflujo/condicionales/If.java)
+- [x] [If-else](./src/main/java/com/unai/core/controldeflujo/condicionales/IfElse.java)
+- [x] [Else-if](./src/main/java/com/unai/core/controldeflujo/condicionales/ElseIf.java)
+- [x] [Condiciones anidadas](./src/main/java/com/unai/core/controldeflujo/condicionales/CondicionesAnidadas.java)
+- [x] [Operador ternario](./src/main/java/com/unai/core/sintaxis/operadores/Ternario.java)
+- [x] [Switch](./src/main/java/com/unai/core/controldeflujo/condicionales/Switch.java)
+- [x] [Switch expressions](./src/main/java/com/unai/core/controldeflujo/condicionales/SwitchExpression.java)
 
 ### Bucles
 
-- [ ] [for]()
-- [ ] [while]()
-- [ ] [do-while]()
-- [ ] [Bucles anidados]()
-- [ ] [Enhanced for]()
+- [x] [for](./src/main/java/com/unai/core/controldeflujo/bucles/For.java)
+- [x] [while](./src/main/java/com/unai/core/controldeflujo/bucles/While.java)
+- [x] [do-while](./src/main/java/com/unai/core/controldeflujo/bucles/DoWhile.java)
+- [x] [Bucles anidados](./src/main/java/com/unai/core/controldeflujo/bucles/BuclesAnidados.java)
+- [x] [Enhanced for](./src/main/java/com/unai/core/controldeflujo/bucles/EnchanceFor.java)
 
 ### Control de ejecución
 
-- [ ] [break]()
-- [ ] [continue]()
-- [ ] [return]()
-- [ ] [Etiquetas]()
+- [x] [Break](./src/main/java/com/unai/core/controldeflujo/ejecucion/Break.java)
+- [x] [Continue](./src/main/java/com/unai/core/controldeflujo/ejecucion/Continue.java)
+- [x] [Return](./src/main/java/com/unai/core/controldeflujo/ejecucion/Return.java)
+- [x] [Etiquetas](./src/main/java/com/unai/core/controldeflujo/ejecucion/Etiquetas.java)
 
 ## Métodos
 
