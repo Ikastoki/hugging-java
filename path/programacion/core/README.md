@@ -166,40 +166,40 @@
 
 ### Herencia
 
-- [ ] [Herencia]()
-- [ ] [extends]()
-- [ ] [super]()
-- [ ] [Clase Object]()
-- [ ] [Jerarquías de clases]()
-- [ ] [Composición frente a herencia]()
+- [x] [Herencia](./src/main/java/com/unai/core/poo/herencia/Herencia.java)
+- [x] [Extends](./src/main/java/com/unai/core/poo/herencia/Extends.java)
+- [x] [Super](./src/main/java/com/unai/core/poo/herencia/Super.java)
+- [x] [Clase Object](./src/main/java/com/unai/core/poo/herencia/ClaseObject.java)
+- [x] [Jerarquías de clases](./src/main/java/com/unai/core/poo/herencia/Jerarquias.java)
+- [x] [Composición frente a herencia](./src/main/java/com/unai/core/poo/herencia/Composicion.java)
 
 ### Polimorfismo
 
-- [ ] [Polimorfismo]()
-- [ ] [Sobreescritura de métodos]()
-- [ ] [Sobrecarga frente a sobreescritura]()
-- [ ] [Upcasting]()
-- [ ] [Downcasting]()
-- [ ] [instanceof]()
+- [x] [Polimorfismo](./src/main/java/com/unai/core/poo/polimorfismo/Polimorfismo.java)
+- [x] [Sobreescritura de métodos](./src/main/java/com/unai/core/poo/polimorfismo/Sobreescritura.java)
+- [x] [Sobrecarga frente a sobreescritura](./src/main/java/com/unai/core/poo/polimorfismo/Sobrecarga.java)
+- [x] [Upcasting](./src/main/java/com/unai/core/poo/polimorfismo/Upcasting.java)
+- [x] [Downcasting](./src/main/java/com/unai/core/poo/polimorfismo/Downcasting.java)
+- [x] [instanceof](./src/main/java/com/unai/core/poo/polimorfismo/Instaceof.java)
 
 ### Abstracción
 
-- [ ] [Abstracción]()
-- [ ] [Clases abstractas]()
-- [ ] [Métodos abstractos]()
-- [ ] [Interfaces]()
-- [ ] [Implementación de interfaces]()
-- [ ] [Interfaces funcionales]()
+- [x] [Abstracción](./src/main/java/com/unai/core/poo/abstraccion/Abstraccion.java)
+- [x] [Clases abstractas](./src/main/java/com/unai/core/poo/abstraccion/ClasesAbstractas.java)
+- [x] [Métodos abstractos](./src/main/java/com/unai/core/poo/abstraccion/MetodosAbstractos.java)
+- [x] [Interfaces](./src/main/java/com/unai/core/poo/abstraccion/Interfaces.java)
+- [x] [Implementación de interfaces](./src/main/java/com/unai/core/poo/abstraccion/ImplementacionInterfaces.java)
+- [x] [Interfaces funcionales](./src/main/java/com/unai/core/poo/abstraccion/InterfacesFuncionales.java)
 
 ## Modificadores y miembros
 
-- [ ] [static]()
-- [ ] [final]()
-- [ ] [abstract]()
-- [ ] [public]()
-- [ ] [protected]()
-- [ ] [private]()
-- [ ] [default]()
+- [ ] [Static]()
+- [ ] [Final]()
+- [ ] [Abstract]()
+- [ ] [Public]()
+- [ ] [Protected]()
+- [ ] [Private]()
+- [ ] [Default]()
 - [ ] [Miembros de clase]()
 - [ ] [Miembros de instancia]()
 - [ ] [Bloques estáticos]()
