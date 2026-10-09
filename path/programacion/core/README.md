@@ -191,19 +191,21 @@
 - [x] [Implementación de interfaces](./src/main/java/com/unai/core/poo/abstraccion/ImplementacionInterfaces.java)
 - [x] [Interfaces funcionales](./src/main/java/com/unai/core/poo/abstraccion/InterfacesFuncionales.java)
 
-## Modificadores y miembros
+## Modificadores y miembros(Refuerzo de conceptos)
 
-- [ ] [Static]()
-- [ ] [Final]()
-- [ ] [Abstract]()
-- [ ] [Public]()
-- [ ] [Protected]()
-- [ ] [Private]()
-- [ ] [Default]()
-- [ ] [Miembros de clase]()
-- [ ] [Miembros de instancia]()
-- [ ] [Bloques estáticos]()
-- [ ] [Bloques de inicialización]()
+Refuerzo de conceptos que van apareciendo por que están relacionados con otros temas pero no se ven en solitario.
+
+- [x] [Static](./src/main/java/com/unai/core/modificadores/Static.java)
+- [x] [Final](./src/main/java/com/unai/core/modificadores/Final.java)
+- [x] [Abstract](./src/main/java/com/unai/core/modificadores/Abstract.java)
+- [x] [Public](./src/main/java/com/unai/core/modificadores/Public.java)
+- [x] [Protected](./src/main/java/com/unai/core/modificadores/Protected.java)
+- [x] [Private](./src/main/java/com/unai/core/modificadores/Private.java)
+- [x] [Default](./src/main/java/com/unai/core/modificadores/Default.java)
+- [x] [Miembros de clase](./src/main/java/com/unai/core/modificadores/MiembrosDeClase.java)
+- [x] [Miembros de instancia](./src/main/java/com/unai/core/modificadores/MiembrosDeInstancia.java)
+- [x] [Bloques estáticos](./src/main/java/com/unai/core/modificadores/BloquesEstaticos.java)
+- [x] [Bloques de inicialización](./src/main/java/com/unai/core/modificadores/BloquesDeInicializacion.java)
 
 ## Clases y tipos avanzados
 
