@@ -147,23 +147,22 @@
 
 ### Fundamentos
 
-- [ ] [Qué es la programación orientada a objetos]()
-- [ ] [Clases]()
-- [ ] [Objetos]()
-- [ ] [Atributos]()
-- [ ] [Métodos de instancia]()
-- [ ] [Constructores]()
-- [ ] [Constructor por defecto]()
-- [ ] [this]()
-- [ ] [Paquetes]()
+- [x] [Qué es la programación orientada a objetos](./src/main/java/com/unai/core/poo/fundamentos/POO.java)
+- [x] [Clases](./src/main/java/com/unai/core/poo/fundamentos/Clases.java)
+- [x] [Objetos](./src/main/java/com/unai/core/poo/fundamentos/Objetos.java)
+- [x] [Atributos](./src/main/java/com/unai/core/poo/fundamentos/Atributos.java)
+- [x] [Métodos de instancia](./src/main/java/com/unai/core/metodos/fundamentos/Instancia.java)
+- [x] [Constructores](./src/main/java/com/unai/core/poo/fundamentos/Constructores.java)
+- [x] [This](./src/main/java/com/unai/core/poo/fundamentos/This.java)
+- [x] [Paquetes](./src/main/java/com/unai/core/poo/fundamentos/Paquetes.java)
 
 ### Encapsulación
 
-- [ ] [Encapsulación]()
-- [ ] [Modificadores de acceso]()
-- [ ] [Getters y setters]()
-- [ ] [Inmutabilidad]()
-- [ ] [Clases inmutables]()
+- [x] [Encapsulación](./src/main/java/com/unai/core/poo/encapsulacion/Encapsulacion.java)
+- [x] [Modificadores de acceso](./src/main/java/com/unai/core/poo/encapsulacion/ModificadoresDeAcceso.java)
+- [x] [Getters y setters](./src/main/java/com/unai/core/poo/encapsulacion/GetterSetter.java)
+- [x] [Inmutabilidad](./src/main/java/com/unai/core/poo/encapsulacion/Inmutabilidad.java)
+- [x] [Clases inmutables](./src/main/java/com/unai/core/poo/encapsulacion/ClasesInmutables.java)
 
 ### Herencia
 

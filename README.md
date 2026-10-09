@@ -12,9 +12,6 @@
 
 Este proyecto reúne apuntes, ejercicios y recursos para repasar Java y aprender nuevas tecnologías del ecosistema. El recorrido abarca desde los fundamentos del lenguaje hasta el desarrollo de aplicaciones web con Spring, Angular, PostgreSQL.
 
->[!NOTE]
->
-> Ha día de hoy siguen pidiendo un stack concreto en las entrevistas y en mi zona es el más solicitado. Por eso la elección del stack.
 
 ## Programación
 
