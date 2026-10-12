@@ -58,7 +58,7 @@ Este proyecto reúne apuntes, ejercicios y recursos para repasar Java y aprender
 ## Frameworks y librerías
 
 [![angular](https://img.shields.io/badge/angular-FF0037?style=for-the-badge&logo=angular&logoColor=white)]()
-[![spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)](./path/frameworks/spring-boot/README.md)
 
 ---
 

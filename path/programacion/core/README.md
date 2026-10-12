@@ -211,32 +211,32 @@ Refuerzo de conceptos que van apareciendo por que están relacionados con otros 
 
 ### Clases anidadas
 
-- [ ] [Clases internas]()
-- [ ] [Clases anidadas estáticas]()
-- [ ] [Clases locales]()
-- [ ] [Clases anónimas]()
+- [x] [Clases internas](./src/main/java/com/unai/core/clasesavanzadas/clasesanidadas/ClasesInternas.java)
+- [x] [Clases anidadas estáticas](./src/main/java/com/unai/core/clasesavanzadas/clasesanidadas/AnidadasEstaticas.java)
+- [x] [Clases locales](./src/main/java/com/unai/core/clasesavanzadas/clasesanidadas/ClasesLocales.java)
+- [x] [Clases anónimas](./src/main/java/com/unai/core/clasesavanzadas/clasesanidadas/ClasesAnonimas.java)
 
 ### Enumeraciones
 
-- [ ] [Enum]()
-- [ ] [Enumeraciones con atributos]()
-- [ ] [Enumeraciones con métodos]()
-- [ ] [Enum y switch]()
+- [x] [Enum](./src/main/java/com/unai/core/clasesavanzadas/enumeraciones/Enum.java)
+- [x] [Enumeraciones con atributos](./src/main/java/com/unai/core/clasesavanzadas/enumeraciones/EnumConAtributos.java)
+- [x] [Enumeraciones con métodos](./src/main/java/com/unai/core/clasesavanzadas/enumeraciones/EnumConMetodos.java)
+- [x] [Enum y switch](./src/main/java/com/unai/core/clasesavanzadas/enumeraciones/)
 
 ### Records
 
-- [ ] [Record]()
-- [ ] [Componentes de un record]()
-- [ ] [Constructores de records]()
-- [ ] [Métodos de records]()
-- [ ] [Records e inmutabilidad]()
+- [x] [Record](./src/main/java/com/unai/core/clasesavanzadas/records/Record.java)
+- [x] [Componentes de un record](./src/main/java/com/unai/core/clasesavanzadas/records/ComponentesRecord.java)
+- [x] [Constructores de records](./src/main/java/com/unai/core/clasesavanzadas/records/ConstructoresRecord.java)
+- [x] [Métodos de records](./src/main/java/com/unai/core/clasesavanzadas/records/MetodosRecord.java)
+- [x] [Records e inmutabilidad](./src/main/java/com/unai/core/clasesavanzadas/records/InmutabilidadRecord.java)
 
 ### Sealed classes
 
-- [ ] [Sealed classes]()
-- [ ] [Permitted subclasses]()
-- [ ] [Sealed interfaces]()
-- [ ] [Pattern matching con sealed classes]()
+- [x] [Sealed classes](./src/main/java/com/unai/core/clasesavanzadas/sealed/SealedClass.java)
+- [x] [Permitted subclasses](./src/main/java/com/unai/core/clasesavanzadas/sealed/PermittedSubclasses.java)
+- [x] [Sealed interfaces](./src/main/java/com/unai/core/clasesavanzadas/sealed/SealedInterfaces.java)
+- [x] [Pattern matching con sealed classes](./src/main/java/com/unai/core/clasesavanzadas/sealed/PatternMatching.java)
 
 ## Excepciones
 
