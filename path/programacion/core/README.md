@@ -242,32 +242,31 @@ Refuerzo de conceptos que van apareciendo por que están relacionados con otros 
 
 ### Fundamentos
 
-- [ ] [Qué son las excepciones]()
-- [ ] [Jerarquía de excepciones]()
-- [ ] [Throwable]()
-- [ ] [Error]()
-- [ ] [Exception]()
-- [ ] [RuntimeException]()
-- [ ] [Checked exceptions]()
-- [ ] [Unchecked exceptions]()
+- [x] [Qué son las excepciones](./src/main/java/com/unai/core/excepciones/fundamentos/Excepciones.java)
+- [x] [Jerarquía de excepciones](./src/main/java/com/unai/core/excepciones/fundamentos/Jerarquia.java)
+- [x] [Throwable](./src/main/java/com/unai/core/excepciones/fundamentos/ClaseThrowable.java)
+- [x] [Error](./src/main/java/com/unai/core/excepciones/fundamentos/ClaseError.java)
+- [x] [Exception](./src/main/java/com/unai/core/excepciones/fundamentos/ClaseException.java)
+- [x] [RuntimeException](./src/main/java/com/unai/core/excepciones/fundamentos/SubClaseRuntimeException.java)
+- [x] [Checked exceptions](./src/main/java/com/unai/core/excepciones/fundamentos/CheckedExceptions.java)
+- [x] [Unchecked exceptions](./src/main/java/com/unai/core/excepciones/fundamentos/UncheckedExceptions.java)
 
 ### Manejo de excepciones
 
-- [ ] [try]()
-- [ ] [catch]()
-- [ ] [finally]()
-- [ ] [try-with-resources]()
-- [ ] [throw]()
-- [ ] [throws]()
-- [ ] [Múltiples bloques catch]()
-- [ ] [Excepciones encadenadas]()
+- [x] [try](./src/main/java/com/unai/core/excepciones/manejoexcepciones/Try.java)
+- [x] [catch](./src/main/java/com/unai/core/excepciones/manejoexcepciones/Catch.java)
+- [x] [finally](./src/main/java/com/unai/core/excepciones/manejoexcepciones/Finally.java)
+- [x] [try-with-resources](./src/main/java/com/unai/core/excepciones/manejoexcepciones/TryResources.java)
+- [x] [throw y throws](./src/main/java/com/unai/core/excepciones/manejoexcepciones/ThrowThrows.java)
+- [x] [Múltiples bloques catch](./src/main/java/com/unai/core/excepciones/manejoexcepciones/MultiCatch.java)
+- [x] [Excepciones encadenadas](./src/main/java/com/unai/core/excepciones/manejoexcepciones/ExcepcionesEncadenadas.java)
 
 ### Excepciones personalizadas
 
-- [ ] [Crear excepciones personalizadas]()
-- [ ] [Checked exceptions personalizadas]()
-- [ ] [Unchecked exceptions personalizadas]()
-- [ ] [Buenas prácticas de manejo de excepciones]()
+- [x] [Crear excepciones personalizadas](./src/main/java/com/unai/core/excepciones/personalizadas/CrearExcepciones.java)
+- [x] [Checked exceptions personalizadas](./src/main/java/com/unai/core/excepciones/personalizadas/CheckedExceptionsPersonalizada.java)
+- [x] [Unchecked exceptions personalizadas](./src/main/java/com/unai/core/excepciones/personalizadas/UncheckedExceptionsPersonalizada.java)
+- [x] [Buenas prácticas de manejo de excepciones](./src/main/java/com/unai/core/excepciones/personalizadas/BuenasPracticas.java)
 
 ## Genéricos
 

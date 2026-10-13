@@ -12,6 +12,9 @@
 
 Este proyecto reúne apuntes, ejercicios y recursos para repasar Java y aprender nuevas tecnologías del ecosistema. El recorrido abarca desde los fundamentos del lenguaje hasta el desarrollo de aplicaciones web con Spring, Angular, PostgreSQL.
 
+>[!CAUTION]
+>
+>  Java es un lenguaje que te obliga a pagar un “peaje” conceptual antes de dejarte hacer cualquier cosa. Este proyecto lo estoy haciendo como un repaso/refuerzo, aun así he intentado hacerlo de la forma más lineal que permite Java con su paradigma orientado a objetos, verboso e hiperconectado.
 
 ## Programación
 
