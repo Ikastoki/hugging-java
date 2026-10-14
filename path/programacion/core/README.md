@@ -307,50 +307,50 @@ Refuerzo de conceptos que van apareciendo por que están relacionados con otros 
 
 ### Gestión de memoria
 
-- [ ] [Asignación de memoria]()
-- [ ] [Liberación de memoria]()
-- [ ] [Garbage Collectors]()
-- [ ] [Memory Leaks]()
-- [ ] [OutOfMemoryError]()
-- [ ] [StackOverflowError]()
+- [x] [Asignación de memoria](./src/main/java/com/unai/core/memoria/gestion/AsignacionDeMemoria.java)
+- [x] [Liberación de memoria](./src/main/java/com/unai/core/memoria/gestion/LiberacionDeMemoria.java)
+- [x] [Garbage Collectors](./src/main/java/com/unai/core/memoria/gestion/GarbageCollectors.java)
+- [x] [Memory Leaks](./src/main/java/com/unai/core/memoria/gestion/MemoryLeaks.java)
+- [x] [OutOfMemoryError](./src/main/java/com/unai/core/memoria/gestion/OutOfMemoryError.java)
+- [x] [StackOverflowError](./src/main/java/com/unai/core/memoria/gestion/StackOverflowError.java)
 
 ## JVM
 
 ### Arquitectura
 
-- [ ] [Arquitectura de la JVM]()
-- [ ] [Class Loader]()
-- [ ] [Runtime Data Areas]()
-- [ ] [Execution Engine]()
-- [ ] [Bytecode]()
-- [ ] [JIT Compiler]()
-- [ ] [Garbage Collector]()
+- [x] [Arquitectura de la JVM](./src/main/java/com/unai/core/jvm/arquitectura/ArquitecturaDeLaJvm.java)
+- [x] [Class Loader](./src/main/java/com/unai/core/jvm/arquitectura/ClaseClassLoader.java)
+- [x] [Runtime Data Areas](./src/main/java/com/unai/core/jvm/arquitectura/RuntimeDataAreas.java)
+- [x] [Execution Engine](./src/main/java/com/unai/core/jvm/arquitectura/ExecutionEngine.java)
+- [x] [Bytecode](./src/main/java/com/unai/core/jvm/arquitectura/Bytecode.java)
+- [x] [JIT Compiler](./src/main/java/com/unai/core/jvm/arquitectura/JitCompiler.java)
+- [x] [Garbage Collector](./src/main/java/com/unai/core/jvm/arquitectura/GarbageCollector.java)
 
 ### Ciclo de ejecución
 
-- [ ] [Carga de clases]()
-- [ ] [Verificación de bytecode]()
-- [ ] [Enlazado]()
-- [ ] [Inicialización de clases]()
-- [ ] [Ejecución del bytecode]()
-- [ ] [Compilación JIT]()
+- [x] [Carga de clases](./src/main/java/com/unai/core/jvm/ciclo/CargaDeClases.java)
+- [x] [Verificación de bytecode](./src/main/java/com/unai/core/jvm/ciclo/VerificacionDeBytecode.java)
+- [x] [Enlazado](./src/main/java/com/unai/core/jvm/ciclo/Enlazado.java)
+- [x] [Inicialización de clases](./src/main/java/com/unai/core/jvm/ciclo/InicializacionDeClases.java)
+- [x] [Ejecución del bytecode](./src/main/java/com/unai/core/jvm/ciclo/EjecucionDelBytecode.java)
+- [x] [Compilación JIT](./src/main/java/com/unai/core/jvm/ciclo/CompilacionJit.java)
 
 ### Herramientas
 
-- [ ] [JVM Options]()
-- [ ] [JVM Diagnostics]()
-- [ ] [jps]()
-- [ ] [jstack]()
-- [ ] [jmap]()
-- [ ] [jcmd]()
+- [x] [JVM Options](./src/main/java/com/unai/core/jvm/herramientas/JvmOptions.java)
+- [x] [JVM Diagnostics](./src/main/java/com/unai/core/jvm/herramientas/JvmDiagnostics.java)
+- [x] [jps](./src/main/java/com/unai/core/jvm/herramientas/Jps.java)
+- [x] [jstack](./src/main/java/com/unai/core/jvm/herramientas/Jstack.java)
+- [x] [jmap](./src/main/java/com/unai/core/jvm/herramientas/Jmap.java)
+- [x] [jcmd](./src/main/java/com/unai/core/jvm/herramientas/Jcmd.java)
 
 ## Reflexión
 
-- [ ] [Qué es Reflection]()
-- [ ] [Class]()
-- [ ] [Obtener información de una clase]()
-- [ ] [Inspeccionar métodos]()
-- [ ] [Inspeccionar campos]()
-- [ ] [Inspeccionar constructores]()
-- [ ] [Invocación mediante reflexión]()
-- [ ] [Limitaciones de Reflection]()
+- [x] [Qué es Reflection](./src/main/java/com/unai/core/reflexion/QueEsReflection.java)
+- [x] [Class](./src/main/java/com/unai/core/reflexion/ClaseClass.java)
+- [x] [Obtener información de una clase](./src/main/java/com/unai/core/reflexion/InformacionDeClase.java)
+- [x] [Inspeccionar métodos](./src/main/java/com/unai/core/reflexion/InspeccionarMetodos.java)
+- [x] [Inspeccionar campos](./src/main/java/com/unai/core/reflexion/InspeccionarCampos.java)
+- [x] [Inspeccionar constructores](./src/main/java/com/unai/core/reflexion/InspeccionarConstructores.java)
+- [x] [Invocación mediante reflexión](./src/main/java/com/unai/core/reflexion/InvocacionPorReflexion.java)
+- [x] [Limitaciones de Reflection](./src/main/java/com/unai/core/reflexion/LimitacionesReflection.java)
