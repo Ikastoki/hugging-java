@@ -270,17 +270,17 @@ Refuerzo de conceptos que van apareciendo por que están relacionados con otros 
 
 ## Genéricos
 
-- [ ] [Qué son los genéricos]()
-- [ ] [Clases genéricas]()
-- [ ] [Métodos genéricos]()
-- [ ] [Interfaces genéricas]()
-- [ ] [Parámetros de tipo]()
-- [ ] [Bounded type parameters]()
-- [ ] [Wildcards]()
-- [ ] [Upper bounded wildcards]()
-- [ ] [Lower bounded wildcards]()
-- [ ] [Type erasure]()
-- [ ] [Limitaciones de los genéricos]()
+- [x] [Qué son los genéricos](./src/main/java/com/unai/core/genericos/Genericos.java)
+- [x] [Clases genéricas](./src/main/java/com/unai/core/genericos/ClasesGenericas.java)
+- [x] [Métodos genéricos](./src/main/java/com/unai/core/genericos/MetodosGenericos.java)
+- [x] [Interfaces genéricas](./src/main/java/com/unai/core/genericos/InterfacesGenericas.java)
+- [x] [Parámetros de tipo](./src/main/java/com/unai/core/genericos/ParametrosDeTipo.java)
+- [x] [Bounded type parameters](./src/main/java/com/unai/core/genericos/BoundedTypeParameters.java)
+- [x] [Wildcards](./src/main/java/com/unai/core/genericos/Wildcards.java)
+- [x] [Upper bounded wildcards](./src/main/java/com/unai/core/genericos/UpperBoundedWildcards.java)
+- [x] [Lower bounded wildcards](./src/main/java/com/unai/core/genericos/LowerBoundedWildcards.java)
+- [x] [Type erasure](./src/main/java/com/unai/core/genericos/TypeErasure.java)
+- [x] [Limitaciones de los genéricos](./src/main/java/com/unai/core/genericos/LimitacionesGenericos.java)
 
 ## Anotaciones
 
