@@ -296,14 +296,14 @@ Refuerzo de conceptos que van apareciendo por que están relacionados con otros 
 
 ### Modelo de memoria
 
-- [ ] [Modelo de memoria de Java]()
-- [ ] [Stack]()
-- [ ] [Heap]()
-- [ ] [Metaspace]()
-- [ ] [Memoria de objetos]()
-- [ ] [Referencias]()
-- [ ] [Ciclo de vida de los objetos]()
-- [ ] [Garbage Collection]()
+- [x] [Modelo de memoria de Java](./src/main/java/com/unai/core/memoria/modelo/ModeloDeMemoria.java)
+- [x] [Stack](./src/main/java/com/unai/core/memoria/modelo/Stack.java)
+- [x] [Heap](./src/main/java/com/unai/core/memoria/modelo/Heap.java)
+- [x] [Metaspace](./src/main/java/com/unai/core/memoria/modelo/Metaspace.java)
+- [x] [Memoria de objetos](./src/main/java/com/unai/core/memoria/modelo/MemoriaDeObjetos.java)
+- [x] [Referencias](./src/main/java/com/unai/core/memoria/modelo/Referencias.java)
+- [x] [Ciclo de vida de los objetos](./src/main/java/com/unai/core/memoria/modelo/CicloDeVida.java)
+- [x] [Garbage Collection](./src/main/java/com/unai/core/memoria/modelo/GarbageCollection.java)
 
 ### Gestión de memoria
 
