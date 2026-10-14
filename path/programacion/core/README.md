@@ -284,13 +284,13 @@ Refuerzo de conceptos que van apareciendo por que están relacionados con otros 
 
 ## Anotaciones
 
-- [ ] [Qué son las anotaciones]()
-- [ ] [Anotaciones integradas]()
-- [ ] [Crear anotaciones]()
-- [ ] [Metaanotaciones]()
-- [ ] [Retención de anotaciones]()
-- [ ] [Anotaciones en tiempo de compilación]()
-- [ ] [Anotaciones en tiempo de ejecución]()
+- [x] [Qué son las anotaciones](./src/main/java/com/unai/core/anotaciones/Anotaciones.java)
+- [x] [Anotaciones integradas](./src/main/java/com/unai/core/anotaciones/AnotacionesIntegradas.java)
+- [x] [Crear anotaciones](./src/main/java/com/unai/core/anotaciones/CrearAnotaciones.java)
+- [x] [Metaanotaciones](./src/main/java/com/unai/core/anotaciones/Metaanotaciones.java)
+- [x] [Retención de anotaciones](./src/main/java/com/unai/core/anotaciones/Retencion.java)
+- [x] [Anotaciones en tiempo de compilación](./src/main/java/com/unai/core/anotaciones/TiempoDeCompilacion.java)
+- [x] [Anotaciones en tiempo de ejecución](./src/main/java/com/unai/core/anotaciones/TiempoDeEjecucion.java)
 
 ## Memoria y ejecución
 
